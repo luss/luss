@@ -1,1 +1,1 @@
-## Take a look at [lussier.io](http://lussier.io) to learn what I always forget
+## Take a look at [luss.io](http://luss.io) to learn what I always forget
