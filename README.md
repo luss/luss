@@ -1,15 +1,14 @@
-## Take a look at [luss.io](http://luss.io) to learn what I always forget.  It's built using [Jekyll](https://jekyllrb.com)
+# LUSS
 
-My Favorite production grade open-source projects these days include:
-  
-  - [IvorySQL](https://github.com/IvorySQl/IvorySQL): Oracle compatible Postgres
+My little [Blog](http://luss.io) snippets seek to document things that are easy to forget.  It's built using [Jekyll](https://jekyllrb.com).
 
-  - [Debezium](https://github.com/debezium/debezium) - Change Data Cature to Kafka across DB's
-  - [Postgres Decoderbufs](https://github.com/debezium/postgres-decoderbufs) Output plugin to deliver data as [ProtoBufs](https://protobuf.dev) to Debezium
-  - [Kafka](https://github.com/apache/kafka) Event Streaming Platform
-  - [API Curio Registry](https://github.com/apicurio/apicurio-registry)
+My Favorite open-source projects these days include:
 
-  - [pgBin](https://gituhb.com/pgedge/pgbin-build) Building cross-platform Postgres & component binaries
+## [PostgreSQL](https://postgresql.org) - World's Most Advanced RDBMS
+## [IvorySQL](https://github.com/IvorySQl/IvorySQL) - Oracle compatible Postgres
 
+## [Debezium](https://github.com/debezium/debezium) - Change Data Cature to Kafka across DB's
+## [Postgres Decoderbufs](https://github.com/debezium/postgres-decoderbufs) - Output plugin to deliver data as [ProtoBufs](https://protobuf.dev) to Debezium
+## [APICurio Registry](https://github.com/apicurio/apicurio-registry) - An API/Schema Registry
 
-
+## [Kafka](https://github.com/apache/kafka) - Event Streaming Platform
