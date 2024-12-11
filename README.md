@@ -2,7 +2,14 @@
 
 My Favorite Open Source projects these days include:
 
-[pgbin-build](https://gituhb.com/pgedge/pgbin-build)
+## [pgEdge](https://github.com/pgedge) Project
+  - [pgbin-build](https://gituhb.com/pgedge/pgbin-build) Building Cross-Platform Postgres & Component Binaries
+  - [cli)](https://github.com/pgedge/cli): Installation and Control
 
-[IvorySQL](https://github.com/IvorySQl/IvorySQL)
+## zzzz's [IvorySQL](https://ivorysql.org) Project
+  - [IvorySQL](https://github.com/IvorySQl/IvorySQL)
+
+## Redhat's [Debezium Project](https://debezium.io)
+   - [Debezium](https://github.com/debezium/debezium)
+  - [encoder](https://github.com/debezium/encoder)
 
