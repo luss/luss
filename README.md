@@ -9,6 +9,9 @@ My Favorite open-source sites these days include:
 .
 ## [Kafka](https://kafka.apache.org) - Event Streaming Platform
 ## [Debezium](https://debezium.io) - Change Data Cature to Kafka across DB's
-## [Postgres Decoderbufs](https://github.com/debezium/postgres-decoderbufs) - Output plugin to deliver data as [ProtoBufs](https://protobuf.dev) to Debezium
-## [APICurio Registry](https://www.apicur.io/registry/)) - An API/Schema Registry
+## [Postgres Decoderbufs](https://github.com/debezium/postgres-decoderbufs) - Output plugin to deliver data as Google's[ProtoBufs](https://protobuf.dev) to Debezium
+## [APICurio Registry](https://www.apicur.io/registry/) - An API/Schema Registry
+.
+## [pgORA](https://pgora.com) - US based Postgres Consulting
+## [OpenSource DB](https://opensource-db.com) - India based Postgres One-shoring
 
