@@ -5,7 +5,7 @@ My little [Blog](http://luss.io) snippets seek to document things that are easy 
 My Favorite open-source sites these days include:
 
 ## [PostgreSQL](https://postgresql.org) - World's Most Advanced RDBMS
-## <img src=ivorysql.jpg>[IvorySQL](https://ivorysql.org) - Oracle Compatible Postgres that is Apache Licensed
+## [<img height=25 width25 src=ivorysql.jpg> IvorySQL](https://ivorysql.org) - Oracle Compatible Postgres that is Apache Licensed
 .
 ## [Kafka](https://kafka.apache.org) - Event Streaming Platform
 ## [Debezium](https://debezium.io) - Change Data Cature to Kafka across DB's
@@ -13,5 +13,5 @@ My Favorite open-source sites these days include:
 ## [APICurio Registry](https://www.apicur.io/registry/) - An API/Schema Registry
 .
 ## [pgOra](https://pgora.com) - US based Postgres Consulting
-## <img src=opensource-db.jpg>[OpenSource DB](https://opensource-db.com) - India based Postgres One-shoring
+## [<img height=25 width=25 src=opensource-db.jpg> OpenSource DB](https://opensource-db.com) - India based Postgres One-shoring
 
