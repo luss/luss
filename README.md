@@ -12,6 +12,6 @@ My Favorite open-source sites these days include:
 ## [Postgres Decoderbufs](https://github.com/debezium/postgres-decoderbufs) - Output plugin to deliver data as Google's[ProtoBufs](https://protobuf.dev) to Debezium
 ## [APICurio Registry](https://www.apicur.io/registry/) - An API/Schema Registry
 .
-## [pgORA](https://pgora.com) - US based Postgres Consulting
+## [pgOra](https://pgora.com) - US based Postgres Consulting
 ## [OpenSource DB](https://opensource-db.com) - India based Postgres One-shoring
 
