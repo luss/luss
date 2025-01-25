@@ -2,7 +2,7 @@
 
 My little [Blog](http://lussier.io) snippets seek to document things that are easy to forget.  It's built using [Jekyll](https://jekyllrb.com).
 
-My Favorite real [Open Source]() sites these days include:
+My Favorite [Open Source](https://opensource.org/licenses) sites these days include:
 
 ## [<img height=25 width25 src=pgora.jpg>&nbsp;pgOra](https://pgora.com) - US based Postgres Consulting
 ## [<img height=25 width=25 src=osdb.png>&nbsp;OpenSource DB](https://opensource-db.com) - India based Postgres 7x24 Support & Remote DBA
