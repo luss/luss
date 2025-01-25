@@ -1,6 +1,6 @@
 # LUSS
 
-These little [Blog](http://lussier.io) snippets seek to document things that are easy to forget.  It's built using [Jekyll](https://jekyllrb.com).
+These little [blog](http://lussier.io) snippets seek to document things that are easy to forget.  It's built using [Jekyll](https://jekyllrb.com).
 
 My Favorite [Open Source&trade;](https://opensource.org/licenses) sites these days include:
 
