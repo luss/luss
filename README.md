@@ -1,8 +1,7 @@
-# PGAURA
+# PGAURA &ndbsp;&nbsp;<img height=4- width=40 src=img/budha.jpg>
 
 ## Professional Services
-#### [<img height=25 width25 src=img/osdb.jpg>&nbsp;OpenSource PG](https://opensource-pg.com) - Expert Postgres Consulting
-#### [<img height=25 width=25 src=img/osdb.jpg>&nbsp;OpenSource DB](https://opensource-db.com) - Postgres 7x24 Support & Remote DBA
+#### [<img height=25 width25 src=img/osdb.jpg>&nbsp;OpenSource PG](https://opensource-pg.com) - Global Postgres Consulting, 7x24 Support & Remote DBA
 
 ## Change Data Capture
 #### [<img height=25 width25 src=img/debezium.jpg>&nbsp;Debezium](https://debezium.io) - Change Data Cature to Kafka across DB's
