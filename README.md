@@ -4,7 +4,7 @@
 
 ### Integration & Migration Services
 ## [<img height=25 width=25 src=img/debezium.jpg>&nbsp;Debezium](https://debezium.io) - Efficient Change Data Capture from Oracle, SQL Server & MySQL
-## [<img height=25 width=25 src=img/pgora.jpg>&nbsp;pgORA](https://debezium.io) - MIgratiing from Oracle or MySQL
+## [<img height=25 width=25 src=img/ora2pg.jpg>&nbsp;ora2pg](https://debezium.io) - Migratiing from Oracle or MySQL
 
 ### Featured Postgres Extensions
 #### [<img height=25 width25 src=img/postgis.jpg>&nbsp;PostGIS](https://github.com/timescaledb/pgai)&nbsp;&nbsp;AI from Postgres
