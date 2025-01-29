@@ -1,8 +1,6 @@
-# <img height=40 width=40 src=img/budha.jpg> PGAURA
+# <img height=40 width=40 src=img/budha.jpg> pgAURA
 
 ## [<img height=25 width=25 src=img/osdb.jpg>&nbsp;OpenSourcePG](https://opensource-db.com) - Postgres Consulting, 7x24 Support & Remote DBA
-
-### Integration & Migration Services
 ## [<img height=25 width=25 src=img/debezium.jpg>&nbsp;Debezium](https://debezium.io) - Efficient Change Data Capture from Oracle, SQL Server & MySQL
 ## [<img height=25 width=25 src=img/catamaran.jpg>&nbsp;ora2pg](https://github.com/ora2pg/ora2pg) - Migrating from Oracle or MySQL
 
