@@ -1,7 +1,7 @@
 # PGAURA
 
 ## Professional Services
-#### [<img height=25 width25 src=img/ospg.png>&nbsp;OpenSource PG](https://opensource-pg.com) - Expert Postgres Consulting
+#### [<img height=25 width25 src=img/ospg.jpg>&nbsp;OpenSource PG](https://opensource-pg.com) - Expert Postgres Consulting
 #### [<img height=25 width=25 src=img/osdb.jpg>&nbsp;OpenSource DB](https://opensource-db.com) - Postgres 7x24 Support & Remote DBA
 
 ## Change Data Capture
@@ -14,6 +14,6 @@
 ## Postgres Applications & Extensions
 #### [<img height=25 width25 src=img/postgis.jpg>&nbsp;PostGIS](https://github.com/timescaledb/pgai)&nbsp;&nbsp;AI from Postgres
 #### [<img height=25 width25 src=img/vector.jpg>&nbsp;pgVector](https://github.com/timescaledb/pgai)&nbsp;&nbsp;AI from Postgres
-#### [<img height=25 width25 src=img/pgai.jpg>&nbsp;pgAI](https://github.com/timescaledb/pgai)&nbsp;&nbsp;AI from Postgres
+#### [<img height=25 width25 src=img/pgai.jpg>&nbsp;pgAI](https://github.com/timescaledb/pgai)&nbsp;&nbsp;Using LLM's from Postgres via Llama
 #### [<img height=25 width25 src=img/spock.jpg>&nbsp;Spock](https://github.com/pgedge/spock)&nbsp;&nbsp;Bi-Directional Replication
 
