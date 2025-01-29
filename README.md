@@ -2,7 +2,9 @@
 
 ## [<img height=25 width=25 src=img/osdb.jpg>&nbsp;OpenSourcePG](https://opensource-db.com) - Postgres Consulting, 7x24 Support & Remote DBA
 
-## [<img height=25 width=25 src=img/debezium.jpg>&nbsp;Debezium Integration Services](https://debezium.io) - Efficient Change Data Capture for Oracle & SQL Server
+### Integration & Migration Services
+## [<img height=25 width=25 src=img/debezium.jpg>&nbsp;Debezium](https://debezium.io) - Efficient Change Data Capture from Oracle, SQL Server & MySQL
+## [<img height=25 width=25 src=img/pgora.jpg>&nbsp;pgORA](https://debezium.io) - MIgratiing from Oracle or MySQL
 
 ### Featured Postgres Extensions
 #### [<img height=25 width25 src=img/postgis.jpg>&nbsp;PostGIS](https://github.com/timescaledb/pgai)&nbsp;&nbsp;AI from Postgres
