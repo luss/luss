@@ -4,11 +4,14 @@
 &nbsp;
 &nbsp;
 
-<img height=175 width=175 src=img/opensourcepg.png> *Global Consulting, 7x24 Support & Remote DBA*
+<img height=175 width=175 src=img/opensourcepg.png>  **Global Postgres Consulting, 7x24 Support & Remote DBA**
 
 ### [<img height=25 width=25 src=img/debezium.jpg>&nbsp;Debezium](https://debezium.io) - Change Data Capture from Oracle, SQL Server or MySQL
 ### [<img height=25 width=25 src=img/kafka.jpg>&nbsp;Kafka](https://kafka.apache.org) - Event Streaming Platform
-### [<img height=25 width=25 src=img/ora2pg.png>&nbsp;ora2pg](https://github.com/ora2pg/ora2pg) - Migrating from Oracle or MySQL
+### [<img height=25 width=25 src=img/apicurio.jpg>&nbsp;Kafka](https://kafka.apache.org) - Event Streaming Platform
+### [<img height=25 width=25 src=img/ora2pg.png>&nbsp;ora2pg](https://github.com/ora2pg/ora2pg) - Migrating from Oracle
+### [<img height=25 width=25 src=img/k8s.svg>&nbsp;Kubernetes]() - Container Orchestration System
+### [<img height=25 width=25 src=img/kubevirt.png>&nbsp;KubeVirt]() - Virtualization API for Kubernetes
 &nbsp;
 &nbsp;
 &nbsp;
