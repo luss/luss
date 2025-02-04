@@ -2,7 +2,7 @@
 
 # [<img height=40 width=50 src=img/budha.png> LUSS.IO <img height=33 width=55 src=img/purple-pg-aura.png>](https://pgora.com)
 
-<img height=125 width=125 src=img/opensourcepg.png>  **Global Postgres Consulting, 7x24 Support & Remote DBA**
+## <img height=125 width=125 src=img/opensourcepg.png>  **Global Postgres Consulting, 7x24 Support & Remote DBA**
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
@@ -12,7 +12,7 @@
 
 # &nbsp;
 
-<img height=125 width=125 src=img/pgaura.png> &nbsp;&nbsp; **Complete Enterprise PostgreSQL Ecosystem**
+## <img height=125 width=125 src=img/pgaura.png> &nbsp;&nbsp; **Complete Enterprise PostgreSQL Ecosystem**
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
