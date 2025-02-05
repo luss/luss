@@ -9,7 +9,7 @@
 
 &nbsp;
 &nbsp;
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=45 width=310 src=img/pgaura-banner.png> 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=90 width=3620 src=img/pgaura-banner.png> 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
 | [<img height=25 width25 src=img/vector.png> pgVector:](https://github.com/pgvector/pgvector?tab=readme-ov-file#getting-started) Similarity Searching |  [<img height=25 width25 src=img/timescale.png>Timescale:](https://github.com/timescale/timescaledb?tab=readme-ov-file#create-a-hypertable) TimeSeries Analytics | [<img height=25 width25 src=img/pgbouncer.png>pgBouncer:](https://pgbouncer.org) Connection Pooler
