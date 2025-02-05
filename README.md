@@ -2,16 +2,14 @@
 
 # [<img height=40 width=50 src=img/budha.png> LUSS.IO <img height=33 width=55 src=img/purple-pg-aura.png>](https://pgora.com)
 
-## <img height=125 width=125 src=img/opensourcepg.png>  **Global Postgres Consulting, 7x24 Support & Remote DBA**
-
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=45 width=310 src=img/opensourcepg-banner.png> 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
 | [<img height=20 width=20 src=img/debezium.jpg>Debezium:](https://debezium.io) Change Data Capture | [<img height=20 width=25 src=img/kafka.jpg>Kafka:](https://kafka.apache.org) Event Streaming | [<img height=25 width=25 src=img/ora2pg.png>Ora2pg: ](https://ora2pg.darold.net) Migrating from Oracle  
 
-# &nbsp;
-
-# <img src=img/pgaura-banner.png>
-
+&nbsp;
+&nbsp;
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height=45 width=310 src=img/pgaura-banner.png> 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
 | [<img height=25 width25 src=img/vector.png> pgVector:](https://github.com/pgvector/pgvector?tab=readme-ov-file#getting-started) Similarity Searching |  [<img height=25 width25 src=img/timescale.png>Timescale:](https://github.com/timescale/timescaledb?tab=readme-ov-file#create-a-hypertable) TimeSeries Analytics | [<img height=25 width25 src=img/pgbouncer.png>pgBouncer:](https://pgbouncer.org) Connection Pooler
