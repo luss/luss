@@ -10,7 +10,7 @@
 
 # &nbsp;
 
-## <img height=125 width=125 src=img/pgaura.png> &nbsp;&nbsp; **Open Source PostgreSQL Ecosystem**
+# <img src=img/pgaura-banner.png>
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
