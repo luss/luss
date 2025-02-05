@@ -23,7 +23,7 @@
  
 
 &nbsp;
-## <img height=125 width=125 src=img/whats-next.png> &nbsp;&nbsp; **Help us prioritize....
+## <img height=125 width=125 src=img/whats-next.png> &nbsp;&nbsp; **Help us prioritize**...
 
 | &nbsp; |
 | :----- | 
