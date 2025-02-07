@@ -4,7 +4,7 @@
 <img height=1 width=1 src=img/spacer.png>
 
 # Organizations We Love
-[<img width=15 height=15 src=postgres.jpg> PostgreSQL Global Developers Group]()  &nbsp;&nbsp;  [<img width=15 height=15 src=mozilla.png>Mozilla Foundation]()  &nbsp;&nbsp;  [<img width=15 height=15 src=apache.png>Apache Software]()  &nbsp;&nbsp;  [<img width=15 height=15 src=habitat.png>]Habitat for Humanity()
+[<img width=15 height=15 src=img/postgres.jpg> PostgreSQL Global Developers Group](https://postgresql.org)  &nbsp;&nbsp;  [<img width=15 height=15 src=img/mozilla.png> Mozilla Foundation](https://mozilla.org)  &nbsp;&nbsp;  [<img width=15 height=15 src=img/apache.png> Apache Software](https://apache.org)  &nbsp;&nbsp;  [<img width=15 height=15 src=img/habitat.png> Habitat for Humanity](https://habitat.org)
 
 
 <img height=1 width=1 src=img/spacer.png>
