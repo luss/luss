@@ -1,10 +1,10 @@
  
-# [<img height=40 width=50 src=img/budha.png>&nbsp;LUSSIER.IO&nbsp;<img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
+# [<img height=40 width=50 src=img/budha.png>&nbsp;Luss Group&nbsp;<img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
 
 <img height=1 width=1 src=img/spacer.png>
 
 # Organizations We Love
-<img width=10 height=10 src=postgres.png>PostgreSQL Global Developers Group  &nbsp;&nbsp;  Mozilla Foundation  &nbsp;&nbsp;  Apache Software Foundation  &nbsp;&nbsp;  Habitat For Humanity
+<img width=15 height=15 src=postgres.jpg>&nbsp;PostgreSQL Global Developers Group  &nbsp;&nbsp;  <img width=15 height=15 src=mozilla.png>&nbsp;Mozilla Foundation  &nbsp;&nbsp;  <img width=15 height=15 src=apache.png>&nbsp; Software  &nbsp;&nbsp;  <img width=15 height=15 src=habitat.png>&nbsp; Habitat for Humanity
 
 
 <img height=1 width=1 src=img/spacer.png>
