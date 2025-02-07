@@ -1,18 +1,26 @@
  
-
 # [<img height=40 width=50 src=img/budha.png>&nbsp;LUSSIER.IO&nbsp;<img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
 
-##### &nbsp;&nbsp;<img height=90 width=750 src=img/opensourcepg-banner.png> 
+<img height=1 width=1 src=img/spacer.png>
+# Organizations We Love
+#### PostgreSQL Global Developers Group
+#### Mozilla Foundation
+#### Apache Software Foundation
+#### Habitat For Humanity
+
+
+<img height=1 width=1 src=img/spacer.png>
+<img height=90 width=750 src=img/opensourcepg-banner.png> 
+
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
 | [<img height=20 width=20 src=img/debezium.jpg>Debezium:](https://debezium.io) Change Data Capture | [<img height=20 width=25 src=img/kafka.jpg>Kafka:](https://kafka.apache.org) Event Streaming | [<img height=25 width=25 src=img/ora2pg.png>Ora2pg: ](https://ora2pg.darold.net) Migrating from Oracle
 | [<img height=25 width25 src=img/patroni.png>Patroni:](https://github.com/patroni/patroni]) High Availability | [<img height=25 width25 src=img/backrest.png>pgBackRest:](https://pgbackrest.org) Backup & Restore | [<img height=25 width25 src=img/pgbouncer.png>pgBouncer:](https://pgbouncer.org) Connection Pooler 
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-##### &nbsp;&nbsp;<img height=90 width=750 src=img/pgaura-banner.png> 
+
+<img height=1 width=1 src=img/spacer.png>
+<img height=90 width=750 src=img/pgaura-banner.png> 
+
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
 | [<img height=25 width25 src=img/vector.png> pgVector:](https://github.com/pgvector/pgvector?tab=readme-ov-file#getting-started) Similarity Searching |  [<img height=25 width25 src=img/timescale.png>Timescale:](https://github.com/timescale/timescaledb?tab=readme-ov-file#create-a-hypertable) TimeSeries Analytics | [<img height=25 width25 src=img/postgis.jpg>PostGIS:](https://postgis.net) Spatial Data 
@@ -22,13 +30,11 @@
 | [<img height=25 width25 src=img/jan.png>plProfiler:](https://github.com) Procedural Profiler | [<img height=25 width25 src=img/debugger.png>plDebugger:](https://github.com/EnterpriseDB/pldebugger) Procedure Debugger | [<img height=25 width25 src=img/protobufs.jpg>DecoderBufs:](https://github.com/debezium/postgres-decoderbufs) Protobuf Plugin
  
 
-&nbsp;
-## <img height=125 width=125 src=img/whats-next.png> &nbsp;&nbsp; **Help us prioritize**...
+<img height=1 width=1 src=img/spacer.png>
+<img height=125 width=125 src=img/whats-next.png> &nbsp;&nbsp; **Help us prioritize**...
+[<img height=25 width=25 src=img/pgadmin4.png>pgAdmin: ](https://pgAdmin.org) Postgres UI Tools
+[<img height=25 width25 src=img/pglogical.png>pgLogical:](https://github.com/2ndquadrant/pglogical?tab=readme-ov-file#usage) Logical Replication
 
-| &nbsp; |
-| :----- | 
-| [<img height=25 width=25 src=img/pgadmin4.png>pgAdmin: ](https://pgAdmin.org) Postgres UI Tools
-| [<img height=25 width25 src=img/pglogical.png>pgLogical:](https://github.com/2ndquadrant/pglogical?tab=readme-ov-file#usage) Logical Replication
 | [<img height=25 width=25 src=img/apicurio.png>APICurio:](https://www.apicur.io/registry/) Registry for Schema's  
 | [<img height=25 width=25 src=img/flink.jpg>Flink: ](https://flink.apache.org) SQL over Kafka  
 | [<img height=25 width25 src=img/oracle_fdw.png>OracleFDW:](https://github.com/laurenz/oracle_fdw?tab=readme-ov-file#foreign-data-wrapper-for-oracle) Oracle from PG 
@@ -36,6 +42,3 @@
 | [<img height=25 width=25 src=img/k8s.svg>Kubernetes:](https://kubernetes.io) Container Orchestration 
 | [<img height=25 width=25 src=img/kubevirt.png>KubeVirt:](https://kubevirt.io) K8s Virtualization API 
 | [<img height=25 width25 src=img/pgai.png>pgAI:](https://github.com/timescale/pgai?tab=readme-ov-file#create-a-table-and-run-a-vectorizer) AI Superpowers 
-
-
-
