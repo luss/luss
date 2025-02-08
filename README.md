@@ -4,8 +4,8 @@
 [<img width=15 height=15 src=img/postgres.jpg> PostgreSQL](https://postgresql.org) &nbsp;&nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp;&nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org)  &nbsp;&nbsp;  [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp;&nbsp;  [<img width=15 height=15 src=img/linuxFoundation.png> Linux](https://linuxfoundation.org) &nbsp;&nbsp;[<img width=15 height=15 src=img/osi.png> Open Source](https://opensource.org) &nbsp;&nbsp;  [<img width=15 height=15 src=img/habitat.png> Habitat](https://habitat.org)
 
 
-<img height=100 width=1 src=img/spacer.png>
-<img height=90 width=750 src=img/opensourcepg-banner.png> 
+<img height=25 width=1 src=img/spacer.png>
+<center><img height=90 width=750 src=img/opensourcepg-banner.png></center> 
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
@@ -13,7 +13,7 @@
 | [<img height=25 width25 src=img/pgmanage.png> pgManage:](https://github.com/commandprompt/pgmanage?tab=readme-ov-file#--a-modern-multi-platform-postgres-centric-database-clientadministration-tool-) Administration Tool | [<img height=25 width=25 src=img/apicurio.png> APICurio:](https://www.apicur.io/registry/) Registry for Schema's  | [<img height=25 width=25 src=img/flink.jpg> Flink: ](https://flink.apache.org) SQL over Kafka 
 
 
-<img height=150 width=1 src=img/spacer.png>
+<img height=50 width=1 src=img/spacer.png>
 <img height=90 width=750 src=img/pgaura-banner.png> 
 
 | &nbsp; | &nbsp; | &nbsp; |
