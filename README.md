@@ -1,7 +1,7 @@
  
 # [<img height=40 width=50 src=img/budha.png> lussier.io <img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
 
-[<img width=15 height=15 src=img/postgres.jpg> PostgreSQL](https://postgresql.org) &nbsp;&nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp;&nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org)  &nbsp;&nbsp;  [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp;&nbsp;  [<img width=15 height=15 src=img/linuxFoundation.png> Linux](https://linuxfoundation.org) &nbsp;&nbsp;[<img width=15 height=15 src=img/osi.png> Open Source](https://opensource.org) &nbsp;&nbsp;  [<img width=15 height=15 src=img/habitat.png> Habitat](https://habitat.org)
+[<img width=15 height=15 src=img/postgres.jpg> Postgres](https://postgresql.org) &nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org) &nbsp; [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp; [<img width=15 height=15 src=img/linuxFoundation.png> Linux Foundation](https://linuxfoundation.org) &nbsp; [<img width=15 height=15 src=img/cncf.png> Cloud Native](https://cncf.io) &nbsp; [<img width=15 height=15 src=img/osi.png> OSI](https://opensource.org) &nbsp;  [<img width=15 height=15 src=img/habitat.png> Habitat](https://habitat.org)
 
 
 <img height=25 width=1 src=img/spacer.png>
