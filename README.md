@@ -5,7 +5,7 @@
 
 
 <img height=25 width=1 src=img/spacer.png>
-<center><img height=90 width=750 src=img/opensourcepg-banner.png></center> 
+<img height=90 width=750 src=img/opensourcepg-banner.png> 
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
