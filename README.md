@@ -11,7 +11,7 @@
 | :----- | :----- | :----- | 
 | [<img height=20 width=20 src=img/debezium.jpg> Debezium:](https://debezium.io) Change Data Capture | [<img height=20 width=25 src=img/kafka.jpg> Kafka:](https://kafka.apache.org) Event Streaming | [<img height=25 width25 src=img/protobufs.jpg> Dekaf:](https://github.com/debezium/postgres-decoderbufs) Output Plugin for Kafka
 | [<img height=25 width=25 src=img/apicurio.png> APICurio:](https://www.apicur.io/registry/) Schema Registry | [<img height=25 width=25 src=img/ora2pg.png> Ora2pg: ](https://ora2pg.darold.net) Migrating from Oracle | [<img height=25 width25 src=img/oracle_fdw.png> OracleFDW:](https://github.com/laurenz/oracle_fdw?tab=readme-ov-file#foreign-data-wrapper-for-oracle) Oracle from PG 
-| [<img height=25 width25 src=img/jan.png> plProfiler:](https://github.com/bigsql/plprofiler?tab=readme-ov-file#plprofiler) Profile Stored Proc's | [<img height=25 width25 src=img/badger.png> pgBadger:](https://pgbadger.darold.net) Measure Performance | [<img height=25 width25 src=img/debugger.png> plDebugger:](https://github.com/enterprisedb/pldebugger?tab=readme-ov-file#postgresql-plpgsql-debugger-api) Debug Stored Proc's 
+| [<img height=25 width25 src=img/jan.png> plProfiler:](https://github.com/bigsql/plprofiler?tab=readme-ov-file#plprofiler) Profile Stored Proc's | [<img height=25 width25 src=img/badger.png> pgBadger:](https://pgbadger.darold.net) Measure Performance | [<img height=25 width25 src=img/korrey.png> plDebugger:](https://github.com/enterprisedb/pldebugger?tab=readme-ov-file#postgresql-plpgsql-debugger-api) Debug Stored Proc's 
 | [<img height=25 width25 src=img/minio.png> MinIO:](https://min.io) S3 Compat Storage
 
 <img height=50 width=1 src=img/spacer.png>
