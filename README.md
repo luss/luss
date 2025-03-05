@@ -5,12 +5,12 @@
 [<img width=25 height=25 src=img/postgres.jpg> Postgres](https://postgresql.org) &nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org) &nbsp; [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp; [<img width=15 height=15 src=img/tux.png> Linux](https://linuxfoundation.org) &nbsp; [<img width=15 height=15 src=img/osi.png> OSI](https://opensource.org) &nbsp; [<img width=15 height=15 src=img/openjdk.png> OpenJDK](https://openjdk.org) &nbsp;   [<img width=25 height=25 src=img/python.png> Python](https://python.org)
 
 
-# opensource-pg
-<img height=25 width=1 src=img/spacer.png>
-<img src=img/opensourcepg-banner.png> 
+# openrds
+<img src=img/openrds-banner.png> 
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
+| &nbsp; | <img height=150 width=225 src=img/pg-ora-sql.png>
 | [<img height=25 width=25 src=img/debezium.jpg> Debezium:](https://debezium.io) Change Data Capture | [<img height=20 width=25 src=img/kafka.jpg> Kafka:](https://kafka.apache.org) Data Integration | [<img height=25 width25 src=img/protobufs.jpg> Decoderbufs:](https://github.com/debezium/postgres-decoderbufs) Kafka Output Plugin
 | [<img height=25 width=25 src=img/minio.png> MinIO:](https://min.io) Object Storage | [<img height=25 width=25 src=img/apicurio.png> APICurio:](https://www.apicur.io/registry/) Schema Registry | [<img height=25 width=25 src=img/ora2pg.png> Ora2pg: ](https://ora2pg.darold.net) Migrate from Oracle 
 | [<img height=25 width=25 src=img/oracle.png> OracleFDW:](https://github.com/laurenz/oracle_fdw?tab=readme-ov-file#foreign-data-wrapper-for-oracle) Oracle from PG | [<img height=25 width=25 src=img/mysql.png> MySQL FDW:](https://github.com/EmnterpriseDB/mysql_fdw) MySQL from PG | [<img height=25 width=25 src=img/freetds.png> TDS FDW:](https://github.com/tds_fdw/tds_fdw) SQL Server from PG 
@@ -18,7 +18,6 @@
 | [<img height=25 width25 src=img/wal-g.png> WAL-G:](https://github.com/wal-g/wal-g) Backup & Restore | [<img height=25 width25 src=img/pgmanage.png> pgManage:](https://github.com/commandprompt/pgmanage?tab=readme-ov-file#--a-modern-multi-platform-postgres-centric-database-clientadministration-tool-) Universal Admin UI 
 
 # pgaura
-<img height=50 width=1 src=img/spacer.png>
 <img src=img/pgaura-banner3.png> 
 
 | &nbsp; | &nbsp; | &nbsp; |
