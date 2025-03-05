@@ -1,9 +1,11 @@
  
 # [<img height=40 width=50 src=img/budha.png> lussier.io <img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
 
+
 [<img width=25 height=25 src=img/postgres.jpg> Postgres](https://postgresql.org) &nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org) &nbsp; [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp; [<img width=15 height=15 src=img/tux.png> Linux](https://linuxfoundation.org) &nbsp; [<img width=15 height=15 src=img/osi.png> OSI](https://opensource.org) &nbsp; [<img width=15 height=15 src=img/openjdk.png> OpenJDK](https://openjdk.org) &nbsp;   [<img width=25 height=25 src=img/python.png> Python](https://python.org)
 
 
+# opensource-pg
 <img height=25 width=1 src=img/spacer.png>
 <img src=img/opensourcepg-banner.png> 
 
@@ -15,8 +17,9 @@
 | [<img height=25 width=25 src=img/jan.png> plProfiler:](https://github.com/bigsql/plprofiler?tab=readme-ov-file#plprofiler) PL/pgSQL Profiling | [<img height=25 width25 src=img/badger.png> Badger:](https://pgbadger.darold.net) Measure Performance | [<img height=25 width25 src=img/korrey-butt.png> Debugger:](https://github.com/enterprisedb/pldebugger?tab=readme-ov-file#postgresql-plpgsql-debugger-api) PL/pgSQL Debugger 
 | [<img height=25 width25 src=img/wal-g.png> WAL-G:](https://github.com/wal-g/wal-g) Backup & Restore | [<img height=25 width25 src=img/pgmanage.png> pgManage:](https://github.com/commandprompt/pgmanage?tab=readme-ov-file#--a-modern-multi-platform-postgres-centric-database-clientadministration-tool-) Universal Admin UI 
 
+# pgaura
 <img height=50 width=1 src=img/spacer.png>
-<img src=img/pgaura-banner2.png> 
+<img src=img/pgaura-banner3.png> 
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
