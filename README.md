@@ -1,5 +1,5 @@
  
-# [<img height=40 width=50 src=img/budha.png> lussier.io <img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
+# [<img height=40 width=50 src=img/budha.png> luss.io <img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
 
 
 [<img width=25 height=25 src=img/postgres.jpg> Postgres](https://postgresql.org) &nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org) &nbsp; [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp; [<img width=15 height=15 src=img/tux.png> Linux](https://linuxfoundation.org) &nbsp; [<img width=15 height=15 src=img/osi.png> OSI](https://opensource.org) &nbsp; [<img width=15 height=15 src=img/openjdk.png> OpenJDK](https://openjdk.org) &nbsp;   [<img width=25 height=25 src=img/python.png> Python](https://python.org)
