@@ -5,7 +5,7 @@
 [<img width=25 height=25 src=img/postgres.jpg> Postgres](https://postgresql.org) &nbsp; [<img width=15 height=15 src=img/apache.png> Apache](https://apache.org) &nbsp; [<img width=15 height=15 src=img/mozilla.png> Mozilla](https://mozilla.org) &nbsp; [<img width=15 height=15 src=img/gnu.png> GNU](https://gnu.org) &nbsp; [<img width=15 height=15 src=img/tux.png> Linux](https://linuxfoundation.org) &nbsp; [<img width=15 height=15 src=img/osi.png> OSI](https://opensource.org) &nbsp; [<img width=15 height=15 src=img/openjdk.png> OpenJDK](https://openjdk.org) &nbsp;   [<img width=25 height=25 src=img/python.png> Python](https://python.org)
 
 
-# openrds
+# [openrds.ai](https://openrds.ai)
 <img src=img/openrds-banner.png> 
 
 | &nbsp; | &nbsp; | &nbsp; |
