@@ -12,10 +12,9 @@
 | :----- | :----- | :----- | 
 | &nbsp; | <img height=150 width=225 src=img/pg-ora-sql.png>
 | [<img height=25 width=25 src=img/debezium.jpg> Debezium:](https://debezium.io) Change Data Capture | [<img height=20 width=25 src=img/kafka.jpg> Kafka:](https://kafka.apache.org) Data Integration | [<img height=25 width25 src=img/protobufs.jpg> Decoderbufs:](https://github.com/debezium/postgres-decoderbufs) Kafka Output Plugin
+| [<img height=25 width=25 src=img/oracle.png> OracleFDW:](https://github.com/laurenz/oracle_fdw?tab=readme-ov-file#foreign-data-wrapper-for-oracle) Oracle from PG | [<img height=25 width25 src=img/wal-g.png> WAL-G:](https://github.com/wal-g/wal-g) Backup & Restore | [<img height=25 width=25 src=img/minio.png> MinIO:](https://min.io) Object Storage
 | [<img height=25 width25 src=img/pgmanage.png> pgManage:](https://github.com/commandprompt/pgmanage?tab=readme-ov-file#--a-modern-multi-platform-postgres-centric-database-clientadministration-tool-) Universal Admin UI | [<img height=25 width=25 src=img/apicurio.png> APICurio:](https://www.apicur.io/registry/) Schema Registry | [<img height=25 width=25 src=img/ora2pg.png> Ora2pg: ](https://ora2pg.darold.net) Migrate from Oracle 
-| [<img height=25 width=25 src=img/oracle.png> OracleFDW:](https://github.com/laurenz/oracle_fdw?tab=readme-ov-file#foreign-data-wrapper-for-oracle) Oracle from PG | [<img height=25 width=25 src=img/mysql.png> MySQL FDW:](https://github.com/EmnterpriseDB/mysql_fdw) MySQL from PG | [<img height=25 width=25 src=img/freetds.png> TDS FDW:](https://github.com/tds_fdw/tds_fdw) SQL Server from PG 
 | [<img height=25 width=25 src=img/jan.png> plProfiler:](https://github.com/bigsql/plprofiler?tab=readme-ov-file#plprofiler) PL/pgSQL Profiling | [<img height=25 width25 src=img/badger.png> Badger:](https://pgbadger.darold.net) Measure Performance | [<img height=25 width25 src=img/korrey-butt.png> Debugger:](https://github.com/enterprisedb/pldebugger?tab=readme-ov-file#postgresql-plpgsql-debugger-api) PL/pgSQL Debugger 
-| [<img height=25 width25 src=img/wal-g.png> WAL-G:](https://github.com/wal-g/wal-g) Backup & Restore | [<img height=25 width=25 src=img/minio.png> MinIO:](https://min.io) Object Storage
 
 # pgaura
 <img src=img/pgaura-banner3.png> 
