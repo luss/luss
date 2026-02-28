@@ -1,5 +1,5 @@
  
-# [<img height=40 width=50 src=img/budha.png> lussier.io <img height=33 width=55 src=img/purple-pg-aura.png>](https://lussier.io)
+# [<img height=40 width=50 src=img/budha.png> luss.io <img height=33 width=55 src=img/purple-pg-aura.png>](http://luss.io)
 
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
