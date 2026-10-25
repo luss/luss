@@ -1,6 +1,5 @@
  
-# [<img height=40 width=50 src=img/budha.png> luss.io <img height=33 width=55 src=img/purple-pg-aura.png>](http://luss.io)
-
+# <img height=40 width=50 src=img/budha.png> &nbsp; <img height=33 width=55 src=img/purple-pg-aura.png>
 | &nbsp; | &nbsp; | &nbsp; |
 | :----- | :----- | :----- | 
 | [<img height=25 width=25 src=img/debezium.jpg> Debezium:](https://debezium.io) Change Data Capture | [<img height=20 width=25 src=img/kafka.jpg> Kafka:](https://kafka.apache.org) Data Integration | [<img height=25 width25 src=img/protobufs.jpg> Decoderbufs:](https://github.com/debezium/postgres-decoderbufs) Kafka Output Plugin
